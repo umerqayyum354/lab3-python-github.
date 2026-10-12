@@ -41,3 +41,4 @@ while True:
     print("Operation :", operation)
     print("Second Number :", N2)
     print("Result :", result)
+    print("\nTask Completed")
